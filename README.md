@@ -1,4 +1,5 @@
-<h1>Exercise Website<h1>
+<h1>Exercise Website</h1>
+
 Welcome to the <b>Exercise Website</b>! This platform provides a comprehensive collection of exercise routines, including full-body workouts, body part-specific exercises, exercise videos, and recommendations for similar exercises.
 
 <b>Features</b>
